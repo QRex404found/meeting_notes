@@ -1,0 +1,11 @@
+2025-09-16
+
+- Jira 사용법 공부하기
+- figma 생성
+- Jira
+    create→에픽
+    - task: 할 일
+    - Feature: 기능 추가(요청)
+    - Story: 기능 설명
+    - Bug: 버그
+    - Request: 지원 요청

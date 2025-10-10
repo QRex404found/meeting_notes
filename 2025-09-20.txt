@@ -1,0 +1,5 @@
+2025-09-20
+
+- figma 리뷰 및 수정사항 정리, 수정
+- 과제 제출 서류 작성
+- github와 jira 연동 방법 공부([https://lamerry.tistory.com/entry/Jira-Github-연동하기-1-Jira란?category=1265013](https://lamerry.tistory.com/entry/Jira-Github-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-1-Jira%EB%9E%80?category=1265013))
