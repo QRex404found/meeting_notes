@@ -1,0 +1,4 @@
+2025-11-03
+- Backend와 Frontend 연결
+- Frontend - 안내 문구 생성
+- Frontend - 각 페이지 디자인 수정

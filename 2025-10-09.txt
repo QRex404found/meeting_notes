@@ -1,0 +1,4 @@
+2025-10-09
+- Backend - DNS Lookup 추가해 ip address 확인
+- Backend - GeoIP 추가해 ip address 확인
+- Backend - Google Safe Browsing API 추가해 safe_browsing_result 확인
